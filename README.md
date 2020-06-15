@@ -5,7 +5,7 @@
 Strategic Card Game
 ---
 ## Creators:
-*Muhammad Muneeb
-Aatir Khan
-Arshanullah Tawhidi*
+*- Muhammad Muneeb
+- Aatir Khan
+- Arshanullah Tawhidi*
 ---
