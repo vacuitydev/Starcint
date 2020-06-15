@@ -1,7 +1,7 @@
-#DIS BICH EMPTY
+# DIS BICH EMPTY
 ---
 ---
-## Starcint
+##Starcint
 Strategic Card Game
 ---
 ##Creators:
