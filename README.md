@@ -1,11 +1,11 @@
 # DIS BICH EMPTY
 ---
 ---
-##Starcint
+## Starcint
 Strategic Card Game
 ---
-##Creators:
-*Muhammad Muneeb*
-*Aatir Khan*
-*Arshanullah Tawhidi*
+## Creators:
+*Muhammad Muneeb
+Aatir Khan
+Arshanullah Tawhidi*
 ---
