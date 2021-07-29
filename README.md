@@ -1,11 +1,3 @@
-# DIS BICH EMPTY
----
----
-## Starcint
-Strategic Card Game
----
-## Creators:
-- Muhammad Muneeb
-- Aatir Khan
-- Arshanullah Tawhidi*
----
+# Screenshots Only
+## Code available on nust email GDrive
+## Source files gone, can regenerate textures with photoshop by channels
